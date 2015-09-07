@@ -20,6 +20,15 @@ http://rt.com/s/rtplayer/playlists/rt_global.m3u8
 
 \\Cable Channel
 
+#EXTINF:-1, 5USA
+http://198.179.30.110/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5b31296020ff0b09af65e1077c1ece5331991ee2a65ce582c315357f08132f5941c8d66c88eaeb00faa4a69104076c39bb9d6cac6ec685b47a3c8cd98b7616b631285299e11e3217f10015bcc3d27da8c8b1c43eb230c58b58da5cf8f3cb2be26fce11863c923cff9b0ade2da0d3608bf03f315a9b5adf375107981e7fd8cec0949be8805c1416faf4d258123dfc1383
+
+#EXTINF:-1,CBS HD
+http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
+
+#EXTINF:-1,CBS
+http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
+
 #EXTINF:-1 tvg-logo="WARNER TV.png",WARNER TV
 rtmp://31.204.128.76/live/master22?b?b*t$
 
