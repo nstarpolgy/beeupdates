@@ -1,0 +1,54 @@
+#EXTM3U
+
+\\Music Channel
+
+#EXTINF:-1,Now Thats What I Call Music Channel
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+\\News
+
+#EXTINF:-1,Al Jazeera News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+
+#EXTINF:-1,I24 News English
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:-1,Russia Today
+http://rt.com/s/rtplayer/playlists/rt_global.m3u8
+
+
+
+\\Cable Channel
+
+#EXTINF:-1 tvg-logo="WARNER TV.png",WARNER TV
+rtmp://31.204.128.76/live/master22?b?b*t$
+
+#EXTINF:-1, Seasame Street (POD Cast)
+http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
+
+\\England
+
+#EXTINF:-1 tvg-logo="5 Star.png",5*
+http://81.23.58.184:8080/udp/0.0.0.0:20007
+
+#EXTINF:-1 tvg-logo="DMAX.png",DMAX
+http://202.75.23.34/live/ch32/01.m3u8
+
+#EXTINF:-1 tvg-logo="London Live.png",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+
+#EXTINF:-1,BBC Two Iptv
+http://81.23.58.184:8080/udp/0.0.0.0:20015
+
+
+
+\\\\\\News\\
+
+#EXTINF:-1 tvg-logo="BBCNews.png" group-title="UK Live TV", BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+
+\\french
+
+#EXTINF:-1 tvg-logo="Fashion TV.png",Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
