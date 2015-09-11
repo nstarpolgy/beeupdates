@@ -5,6 +5,19 @@
 #EXTINF:-1,Now Thats What I Call Music Channel
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8|X-Forwarded-For=91.63.136.21
+
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8|X-Forwarded-For=91.63.136.21
+
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8|X-Forwarded-For=91.63.136.21
+
+#EXTINF:-1 tvg-id="" tvg-logo="vevotv.png",VEVO TV DE
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8|X-Forwarded-For=91.63.136.21
+
+
 \\News
 
 #EXTINF:-1,Al Jazeera News
